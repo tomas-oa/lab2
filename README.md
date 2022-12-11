@@ -1,6 +1,7 @@
 
 
 # lab2
-lab 2
+lab 
+olasad
 
-### leguaje demierda siono
+### buenos dias
